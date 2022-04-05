@@ -1,3 +1,7 @@
 function ask_player_num() {
-    return
+    return 0;
+}
+
+function print(params) {
+    document
 }
